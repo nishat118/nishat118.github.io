@@ -24,13 +24,12 @@ You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjD
     CeDiD: 177C-126B-W2D4 <br/>
     First two letters of the name: WA <br/>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://cse.buet.ac.bd" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
-    Bachelor of Science (B.Sc.) in Computer Science and Engineering <a href="../files/bsc_certificate.pdf">[Certificate]</a> <br/>
-    Period of Study: January 2008 - February 2013 <br/>
-    CGPA: <b>3.81/4.00</b> scale <a href="../files/bsc_transcript.pdf">[Transcript]</a> <br/>
-    Position: Ranked <b>8<sup>th</sup></b> in a class of <b>142</b> students  <br/>
-    Academic Advisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> <br/>
-    Thesis Supervisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=asmlatifulhoque" target="_blank">Dr. Abu Sayed Md. Latiful Hoque</a> <br/>
+    <span style="color:black; font-size:17px"><b><a href="https://eee.buet.ac.bd/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
+    Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering <a href="../files/bsc_certificate.pdf">[Certificate]</a> <br/>
+    Period of Study: February 2011 - March 2016 <br/>
+    CGPA: <b>3.39/4.00</b> scale <a href="../files/bsc_transcript.pdf">[Transcript]</a> <br/>
+    Academic Advisor: <a href="https://eee.buet.ac.bd/faculty/details/dr-lutfa-akter" target="_blank">Dr. Lutfa Akter</a> <br/>
+    Thesis Supervisor: <a href="https://eee.buet.ac.bd/faculty/details/dr-shaikh-asif-mahmood" target="_blank">Dr. Shaikh Asif Mahmood</a> <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://kgmc.ac.bd/" target="_blank"><font color="brown" size="5">Khulna Govt. Girls College</font></a></b></span><br/>
      <!-- Higher Secondary Certificate (HSC) <a href="../files/hsc_certificate.pdf">[Certificate]</a> <br/> -->
