@@ -15,15 +15,6 @@ You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjD
     CGPA: <b>3.78/4.00</b> scale <a href="../files/phd_transcript.pdf">[Transcript]</a> <br/>
     Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a> <br/>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://www.cs.virginia.edu" target="_blank"><font color="brown" size="5">University of Virginia</font></a></b></span><br/>
-    Master in Computer Science <a href="../files/ms_certificate.pdf">[Certificate]</a> <br/>
-    Period of Study: August 2015 - August 2017 <br/>
-    CGPA: <b>4.00/4.00</b> scale <a href="../files/ms_transcript.pdf">[Transcript]</a> <br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a> <br/>
-    <b>Diploma Validation</b>: <a href="http://www.virginia.edu/registrar/cedipl-validate.html" target="_blank">Website</a> <br/>
-    CeDiD: 177C-126B-W2D4 <br/>
-    First two letters of the name: WA <br/>
-<br/>
     <span style="color:black; font-size:17px"><b><a href="https://eee.buet.ac.bd/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
     Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering<br/>
     <!--<a href="../files/bsc_certificate.pdf">[Certificate]</a> <br/> -->
