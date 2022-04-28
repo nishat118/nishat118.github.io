@@ -28,7 +28,8 @@ You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjD
     Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering<br/>
     <!--<a href="../files/bsc_certificate.pdf">[Certificate]</a> <br/> -->
     Period of Study: February 2011 - March 2016 <br/>
-    CGPA: <b>3.39/4.00</b> scale <a href="../files/bsc_transcript.pdf">[Transcript]</a> <br/>
+    CGPA: <b>3.39/4.00</b> scale <br/>
+     <!-- <a href="../files/bsc_transcript.pdf">[Transcript]</a> -->
     Academic Advisor: <a href="https://eee.buet.ac.bd/faculty/details/dr-lutfa-akter" target="_blank">Dr. Lutfa Akter</a> <br/>
     Thesis Supervisor: <a href="https://eee.buet.ac.bd/faculty/details/dr-shaikh-asif-mahmood" target="_blank">Dr. Shaikh Asif Mahmood</a> <br/>
 <br/>
