@@ -9,11 +9,12 @@ redirect_from:
 
 You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjDpRzj4RfSFj/view) or [resume](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjDpRzj4RfSFj/view).
 <br/><br/>
-    <span style="color:black; font-size:17px"><b><a href="https://cs.ucla.edu" target="_blank"><font color="brown" size="5">University of California, Los Angeles</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://electrical.engineering.unt.edu/" target="_blank"><font color="brown" size="5">University of North Texas/font></a></b></span><br/>
     Doctor of Philosophy (Ph.D.) in Electrical Engineering <a href="">[Certificate]</a> <br/>
-    Period of Study: September 2017 - October 2021 <br/>
-    CGPA: <b>3.78/4.00</b> scale <a href="../files/phd_transcript.pdf">[Transcript]</a> <br/>
-    Advisor: <a href="http://web.cs.ucla.edu/~kwchang/" target="_blank">Dr. Kai-Wei Chang</a> <br/>
+    Period of Study: January 2018 - May 2022 <br/>
+    CGPA: <b>3.85/4.00</b> scale <br/>
+    <!-- <a href="../files/phd_transcript.pdf">[Transcript]</a> <br/> -->
+    Advisor: <a href="https://electrical.engineering.unt.edu/people/ifana-mahbub" target="_blank">Dr. Ifana Mahbub</a> <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://eee.buet.ac.bd/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
     Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering<br/>
