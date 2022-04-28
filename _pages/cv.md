@@ -32,7 +32,7 @@ You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjD
     Academic Advisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=mahmudanaznin" target="_blank">Dr. Mahmuda Naznin</a> <br/>
     Thesis Supervisor: <a href="http://cse.buet.ac.bd/faculty/facdetail.php?id=asmlatifulhoque" target="_blank">Dr. Abu Sayed Md. Latiful Hoque</a> <br/>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="http://dhakacollege.edu.bd/" target="_blank"><font color="brown" size="5">Dhaka College</font></a></b></span><br/>
+    <span style="color:black; font-size:17px"><b><a href="https://kgmc.ac.bd/" target="_blank"><font color="brown" size="5">Khulna Govt. Girls College</font></a></b></span><br/>
     Higher Secondary Certificate (HSC) <a href="../files/hsc_certificate.pdf">[Certificate]</a> <br/>
     GPA: <b>5.00/5.00</b> scale <br/>
 <br/>
