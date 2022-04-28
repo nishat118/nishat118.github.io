@@ -10,7 +10,8 @@ redirect_from:
 You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjDpRzj4RfSFj/view) or [resume](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjDpRzj4RfSFj/view).
 <br/><br/>
     <span style="color:black; font-size:17px"><b><a href="https://electrical.engineering.unt.edu/" target="_blank"><font color="brown" size="5">University of North Texas/font></a></b></span><br/>
-    Doctor of Philosophy (Ph.D.) in Electrical Engineering <a href="">[Certificate]</a> <br/>
+    Doctor of Philosophy (Ph.D.) in Electrical Engineering <br/>
+   <!-- <a href="">[Certificate]</a> <br/> -->
     Period of Study: January 2018 - May 2022 <br/>
     CGPA: <b>3.85/4.00</b> scale <br/>
     <!-- <a href="../files/phd_transcript.pdf">[Transcript]</a> <br/> -->
