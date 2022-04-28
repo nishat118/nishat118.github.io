@@ -25,7 +25,7 @@ You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjD
     First two letters of the name: WA <br/>
 <br/>
     <span style="color:black; font-size:17px"><b><a href="https://eee.buet.ac.bd/" target="_blank"><font color="brown" size="5">Bangladesh University of Engineering and Technology</font></a></b></span><br/>
-    Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering 
+    Bachelor of Science (B.Sc.) in Electrical and Electronic Engineering<br/>
     <!--<a href="../files/bsc_certificate.pdf">[Certificate]</a> <br/> -->
     Period of Study: February 2011 - March 2016 <br/>
     CGPA: <b>3.39/4.00</b> scale <a href="../files/bsc_transcript.pdf">[Transcript]</a> <br/>
