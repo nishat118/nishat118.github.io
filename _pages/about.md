@@ -22,7 +22,7 @@ I am a Ph.D. candidate in the Department of Electrical Engineering at the Univer
 
 News and Announcements
 ======
-1. <span style="color:blue">[03.2022] </span> I have been selected for the Outstanding Graduating Ph.D. student award.
+1. <span style="color:blue">[03.2022] </span> I have been selected for the Outstanding Graduating Ph.D. student award in College of Engineering.
 1. <span style="color:blue">[02.2022] </span> I defended my Dissertation Defense!
 1. <span style="color:blue">[02.2022] </span> One paper got accepted at [Scientific Reports](https://www.nature.com/articles/s41598-022-07631-4).
 
