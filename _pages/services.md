@@ -24,14 +24,24 @@ redirect_from:
 
 <h2>Professional Services</h2>
 <ol>
-	<li> Program Committee/Reviewer
+	<li> Reviewer
 		<ul>
-			<li>2022: NeurIPS, ICML, SIGIR, IJCAI, KDD, ARR, LREC, AAAI, WSDM, ICLR </li>
-			<li>2021: NeurIPS, EMNLP, SIGIR, ACL-IJCNLP, IJCAI, NAACL, EACL, AAAI </li>
-			<li>2020: EMNLP, ICML, IJCAI, AAAI, LREC </li>
-			<li>2019: NAACL </li>
+			<li>2022: MWSCAS, ISCAS </li>
+			<li>2021: MWSCAS, ISCAS </li>
     		</ul>
 	</li>
-	<li> Secondary Reviewer: EMNLP 2018 </li>
-	<li> Journal Reviewer: <a href="https://dl.acm.org/journal/tois">TOIS</a> </li>
+	<li> Journal Reviewer
+		<ul>
+			<li>2021: TCAS II </li>
+			<li>2021: TCAS II </li>
+    		</ul>
+	</li>
 </ol>
+
+<h2>Professional Affiliations</h2>
+<ul>
+	<li>Member of IEEE </li>
+	<li>Member of IEEE CASS </li>
+	<li>Member of SWE </li>
+	<li>Member of SMTA, UNT Chapter </li>
+</ul>
