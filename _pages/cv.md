@@ -26,12 +26,12 @@ You can download my [cv](https://drive.google.com/file/d/1wg0gwyNfd81dQFpNf5hAjD
     Academic Advisor: <a href="https://eee.buet.ac.bd/faculty/details/dr-lutfa-akter" target="_blank">Dr. Lutfa Akter</a> <br/>
     Thesis Supervisor: <a href="https://eee.buet.ac.bd/faculty/details/dr-shaikh-asif-mahmood" target="_blank">Dr. Shaikh Asif Mahmood</a> <br/>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://kgmc.ac.bd/" target="_blank"><font color="brown" size="5">Khulna Govt. Girls College</font></a></b></span><br/>
-     <!-- Higher Secondary Certificate (HSC) <a href="../files/hsc_certificate.pdf">[Certificate]</a> <br/> -->
+    <span style="color:black; font-size:17px"><b><a href="https://kgmc.ac.bd/" target="_blank"><font color="brown" size="5">Khulna Government Girls College</font></a></b></span><br/>
+    Higher Secondary Certificate (HSC) <a href="">[Certificate]</a> <br/>
     GPA: <b>5.00/5.00</b> scale <br/>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://govtcoronationsecondarygirlsschool.jessoreboard.gov.bd/" target="_blank"><font color="brown" size="5">Govt. Coronation Secondary Girls School</font></a></b></span><br/>
-     <!-- Secondary School Certificate (SSC) <a href="../files/ssc_certificate.pdf">[Certificate]</a> <br/> -->
+    <span style="color:black; font-size:17px"><b><a href="https://govtcoronationsecondarygirlsschool.jessoreboard.gov.bd/" target="_blank"><font color="brown" size="5">Government Coronation Secondary Girls School</font></a></b></span><br/>
+    Secondary School Certificate (SSC) <a href="">[Certificate]</a> <br/>
     GPA: <b>5.00/5.00</b> scale <br/>
 <br/>
 
