@@ -9,7 +9,7 @@ redirect_from:
 
 <h2>Honors, Awards, and Scholarships</h2>
 <ol>
-	<li> Outstanding graduating Ph.D. student award in College of Engineering, 2022.
+	<li> Outstanding graduating Ph.D. student award in College of Engineering, 2022. </li>
 	<li> Graduate student Research Award, 2020-21. </li>
 	<li> IEEE Circuits and Systems Society student travel grant, 2020. </li>
 	<li> Travel grant from College of Engineering, University of North Texas to attend ISCAS in Seville, Spain, 2020. </li>
