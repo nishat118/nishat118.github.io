@@ -16,9 +16,9 @@ redirect_from:
 	<li> Outstanding Ph.D. student in Electrical Engineering, 2019. </li>
 	<li> Travel grant from College of Engineering, University of North Texas to attend RWW in Orlando, Florida, 2019. </li>
 	<li> Full Tuition Scholarship, University of North Texas, graduate studies program, 2018-Present. </li>
-	<li> Education board scholarship during Higher Secondary Certificate (H.S.C.), Jessore Education Board, Bangladesh, 2010. </li>
+	<li> Education board scholarship during Higher Secondary Certificate (H.S.C.), 2010. </li>
 	<li> Second Runner-up in Bangladesh Mathematical Olympiad, 2008. </li>
-	<li> Education board scholarship during Secondary School Certificate (S.S.C.), Jessore Education Board, Bangladesh, 2008. </li>
+	<li> Education board scholarship during Secondary School Certificate (S.S.C.), 2008. </li>
 </ol>
 
 
