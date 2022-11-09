@@ -3,7 +3,7 @@ title: "A Low-power CMOS Voltage Boosting Rectifier for Wireless Power Transfer 
 collection: publications
 Authors: '<b>Nishat Tasneem</b>, Saket R. Suri, Ifana Mahbub.'
 date: 07/2018
-venue: '2018 Texas Symposium on Wireless and Microwave Circuits and Systems (WMCS)'
+venue: 'Texas Symposium on Wireless and Microwave Circuits and Systems (WMCS)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8400648'
 excerpt: ''
 ---
