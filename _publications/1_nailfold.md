@@ -1,17 +1,17 @@
 ---
 title: " Development of a Low-cost Nailfold Capillaroscopy Platform to Enhance Early Detection of Secondary Raynaud’s Phenomenon"
 collection: publications
-Authors: '<b>Wasi Ahmad</b><sup>*</sup>, Saikat Chakraborty<sup>*</sup>, Baishakhi Ray, and Kai-Wei Chang.'
-date: 03/2021
-venue: 'NAACL'
-paperurl: '?'
-presentationurl: '?'
+Authors: '<b>Nishat Tasneem</b>, S. A. Pullano, M. G. Bianco, F. Ursini, C. Bruno, A. S. Fiorillo, I. Mahbub.'
+date: 06/2018
+venue: '2018 IEEE International Symposium on Medical Measurements and Applications (MeMeA)'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/8438683'
+
 excerpt: ''
 ---
 ---
 <a href='?' target="_blank">[Download Paper]</a>
 
 <p align="justify">
-Code summarization and generation empower conversion between programming language (PL) and natural language (NL), while code translation avails the migration of legacy code from one PL to another. This paper introduces PLBART, a sequence-to-sequence model capable of performing a broad spectrum of program and language understanding and generation tasks. PLBART is pre-trained on an extensive collection of Java and Python functions and associated NL text via denoising autoencoding. Experiments on language generation tasks, including code summarization, generation, translation in seven programming languages show that PLBART outperforms or rivals state-of-the-art models. Moreover, experiments on discriminative tasks, e.g., program repair, clone detection, and vulnerable code detection demonstrate PLBART's effectiveness in program understanding. Furthermore, analysis reveals that PLBART learns program syntax, style (e.g., identifier naming convention), logical flow (e.g., <i>if</i> block inside an <i>else</i> block is equivalent to <i>else if</i> block) that are crucial to program semantics and thus excels even with limited annotations.
+Nailfold Video Capillaroscopy (NVC) is a simple and powerful tool used in rheumatology to recognize morphological and/or functional abnormalities in the microcirculation. Despite its key role in the early diagnosis of Systemic Sclerosis (SSc), its diffusion is confined to central public hospitals. In this paper, the design and fabrication of a low-cost NVC platform are presented, which enables a distributed measuring station for improving the diffusion of this technique in a non-hospital setting. An automated measuring system is implemented for the evaluation of quantitative NVC parameters assisting in the interpretation of a non-specialist. Comparison between the scores obtained from a commercial capillaroscope and the proposed device showed an overall good agreement.
 </p>
 
