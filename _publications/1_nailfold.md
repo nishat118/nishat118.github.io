@@ -1,7 +1,7 @@
 ---
 title: " Development of a Low-cost Nailfold Capillaroscopy Platform to Enhance Early Detection of Secondary Raynaud’s Phenomenon"
 collection: publications
-Authors: '<b>Nishat Tasneem</b>, S. A. Pullano, M. G. Bianco, F. Ursini, C. Bruno, A. S. Fiorillo, I. Mahbub.'
+Authors: 'S. A. Pullano, M. G. Bianco, F. Ursini, C. Bruno, A. S. Fiorillo, <b>Nishat Tasneem</b>, I. Mahbub.'
 date: 06/2018
 venue: '2018 IEEE International Symposium on Medical Measurements and Applications (MeMeA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8438683'
