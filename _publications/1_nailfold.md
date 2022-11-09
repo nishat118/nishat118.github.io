@@ -9,7 +9,7 @@ paperurl: 'https://ieeexplore.ieee.org/abstract/document/8438683'
 excerpt: ''
 ---
 ---
-<a href='?' target="_blank">[Download Paper]</a>
+<a href='https://ieeexplore.ieee.org/abstract/document/8438683' target="_blank">[Download Paper]</a>
 
 <p align="justify">
 Nailfold Video Capillaroscopy (NVC) is a simple and powerful tool used in rheumatology to recognize morphological and/or functional abnormalities in the microcirculation. Despite its key role in the early diagnosis of Systemic Sclerosis (SSc), its diffusion is confined to central public hospitals. In this paper, the design and fabrication of a low-cost NVC platform are presented, which enables a distributed measuring station for improving the diffusion of this technique in a non-hospital setting. An automated measuring system is implemented for the evaluation of quantitative NVC parameters assisting in the interpretation of a non-specialist. Comparison between the scores obtained from a commercial capillaroscope and the proposed device showed an overall good agreement.
