@@ -12,8 +12,6 @@ redirect_from:
 I am a Design Engineer at <a href="http://en.chiponeic.com/">ChipOne Technology Co. Limited</a>. I have completed my Ph.D. in Electrical Engineering at the University of North Texas under the supervision of <a href="https://electrical.engineering.unt.edu/people/ifana-mahbub">Dr. Ifana Mahbub</a>. I received my B.Sc. in Electrical and Electronic Engineering from <a href="https://eee.buet.ac.bd//">EEE@BUET</a> in 2016. My current research interests include low-power analog and RF IC design, device fabrication, system level verification, and post-processing. In my free time, I like reading storybooks, listening to music, and traveling. To learn more about me and my work, feel free to contact me through the contact information provided.
 </p>
 
-  <!-- I am an applied scientist at AWS AI. Before joining AWS, I completed my Ph.D. in Computer Science from the University of California, Los Angeles (UCLA) under the supervision of <a href="http://web.cs.ucla.edu/~kwchang/">Dr. Kai-Wei Chang</a>. My research interests span the areas of natural language processing (NLP), with a focus on representation learning. My current works revolve around representation learning for programming languages to automate software engineering applications. -->
-
 <!--
 <p align="justify">
   <b><font color="red">I am currently looking for full time research position in industry.</font></b>
