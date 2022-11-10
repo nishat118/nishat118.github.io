@@ -1,7 +1,7 @@
 ---
 title: "Design and Fabrication of an EGFET Based Chemical Sensor Using Transistor Association Technique"
 collection: publications
-Authors: 'Pullano SA, Greco M, Fiorillo SA, Mahbub I, <b>Nishat Tasneem</b>, Shamsir S, Islam SK'
+Authors: 'Pullano SA, Greco M, Fiorillo SA, Mahbub I, <b>Nishat Tasneem</b>, Shamsir S, Islam SK.'
 date: 06/2020
 venue: 'IEEE International Symposium on Medical Measurements and Applications (MeMeA)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/9137280'
