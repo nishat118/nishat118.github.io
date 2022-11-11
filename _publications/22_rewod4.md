@@ -3,7 +3,7 @@ title: "A self-powered wireless motion sensor based on a high-surface area rever
 collection: publications
 Authors: '<b>Nishat Tasneem</b>, DK Biswas, PR Adhikari, A Gunti, AB Patwary, RC Reid, I Mahbub.'
 date: 03/2022
-venue: 'Sensors'
+venue: 'Scientific Reports'
 paperurl: 'https://www.nature.com/articles/s41598-022-07631-4'
 
 excerpt: ''
