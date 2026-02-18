@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="color:black; font-size:17px"><b><a href="https://niobiummicrosystems.com/" target="_blank"><font color="brown" size="5">Niobium Microsystems</font></a></b></span><br/>
 Dayton, Ohio (Remote)<br/>
-Design Engineer [April, 2025 - Present]<br/>
+Research Engineer [April, 2025 - Present]<br/>
 
 <span style="color:black; font-size:17px"><b><a href="https://ic-enable.com/" target="_blank"><font color="brown" size="5">IC Enable</font></a></b></span><br/>
 Richardson, Texas (Remote)<br/>
