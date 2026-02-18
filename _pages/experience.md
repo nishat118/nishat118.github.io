@@ -25,7 +25,7 @@ redirect_from:
     Lab: <a href="https://ibiocasl.engineering.unt.edu/" target="_blank">Integrated Biomedical Circuits and Systems Laboratory (iBioCASL)</a><br/>
     Advisor: <a href="https://electrical.engineering.unt.edu/people/ifana-mahbub" target="_blank">Dr. Ifana Mahbub</a>
 <br/>
-    <span style="color:black; font-size:17px"><b><a href="https://yieldengineering.com/" target="_blank"><font color="brown" size="5">Yield Engineering Systems</font></a></b></span><br/>
-    Fremont, California<br/>
-    Research Intern [May, 2019 - August, 2019]
-<br/>
+
+<span style="color:black; font-size:17px"><b><a href="https://yieldengineering.com/" target="_blank"><font color="brown" size="5">Yield Engineering Systems</font></a></b></span><br/>
+Fremont, California<br/>
+Research Intern [May, 2019 - August, 2019]<br/>
