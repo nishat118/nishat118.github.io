@@ -24,10 +24,10 @@ I am a Research Engineer at Niobium Microsystems. My research interests include 
 
 News and Announcements
 ======
-1. <span style="color:blue">[04.2025] I joined Niobium Microsystems as a Research Engineer, Analog Design.
-1. <span style="color:blue">[09.2023] One paper got accepted at IEEE Access.
-1. <span style="color:blue">[09.2023] One paper got accepted at IEEE Sensors Journal.
-1. <span style="color:blue">[07.2023] I started working at IC Enable as an IC Design Engineer III.
+1. <span style="color:blue">[04.2025] </span> I joined Niobium Microsystems as a Research Engineer, Analog Design.
+1. <span style="color:blue">[09.2023] </span> One paper got accepted at IEEE Access.
+1. <span style="color:blue">[09.2023] </span> One paper got accepted at IEEE Sensors Journal.
+1. <span style="color:blue">[07.2023] </span> I started working at IC Enable as an IC Design Engineer III.
 1. <span style="color:blue">[03.2022] </span> I have been selected for the Outstanding Graduating Ph.D. student award in the College of Engineering.
 1. <span style="color:blue">[02.2022] </span> I defended my Dissertation Defense!
 1. <span style="color:blue">[02.2022] </span> One paper got accepted at [Scientific Reports](https://www.nature.com/articles/s41598-022-07631-4).
