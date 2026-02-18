@@ -6,7 +6,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<br/>
 
 <span style="color:black; font-size:17px"><b><a href="https://niobiummicrosystems.com/" target="_blank"><font color="brown" size="5">Niobium Microsystems</font></a></b></span><br/>
 Dayton, Ohio (Remote)<br/>
