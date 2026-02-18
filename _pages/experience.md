@@ -18,7 +18,7 @@ IC Design Engineer [July, 2023 - April 2025]<br/>
 
 <span style="color:black; font-size:17px"><b><a href="https://www.chiponeic.com/en/" target="_blank"><font color="brown" size="5">Chipone Technology</font></a></b></span><br/>
 Santa Clara, California<br/>
-Design Engineer [May, 2022 - May, 2023]<br/><br/>
+Design Engineer [May, 2022 - May, 2023]<br/>
 
 <span style="color:black; font-size:17px"><b><a href="https://www.unt.edu" target="_blank"><font color="brown" size="5">University of North Texas</font></a></b></span><br/>
 Graduate Research Assistant [January, 2017 - May, 2022]<br/>
